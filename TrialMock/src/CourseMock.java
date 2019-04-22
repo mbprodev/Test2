@@ -24,6 +24,7 @@ public class CourseMock {
 			Row row=sheet.getRow(1);
 		    	String value=row.getCell(7).getStringCellValue();
 		    	System.out.println(value);
+		    	System.out.println("Git test");
 		  //  }
 			
 			
