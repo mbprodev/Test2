@@ -25,6 +25,7 @@ public class CourseMock {
 		    	String value=row.getCell(7).getStringCellValue();
 		    	System.out.println(value);
 		    	System.out.println("Git test");
+		    	System.out.println("New branch test");
 		  //  }
 			
 			
